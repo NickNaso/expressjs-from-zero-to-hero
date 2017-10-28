@@ -1,0 +1,19 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "ExpressJS from the ground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickNaso/expressjs-from-zero-to-hero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickNaso/expressjs-from-zero-to-hero/issues"
+  },
+  "homepage": "https://github.com/NickNaso/expressjs-from-zero-to-hero#readme"
+}
