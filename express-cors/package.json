@@ -33,14 +33,14 @@
   },
   "homepage": "http://www.nacios.it/",
   "dependencies": {
-    "body-parser": "^1.16.0",
-    "cors": "^2.8.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
     "errorhandler": "^1.5.0",
-    "express": "^4.14.0",
-    "morgan": "^1.7.0",
-    "response-powered-by": "^1.0.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "response-powered-by": "^1.0.4",
     "response-time": "^2.3.2",
-    "serve": "^2.4.2",
+    "serve": "^10.0.1",
     "static": "^2.0.0"
   },
   "files": [
